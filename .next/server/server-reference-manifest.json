@@ -1,0 +1,58 @@
+{
+  "node": {
+    "d4b7d25106f80283aeefdcfd814ce7d1d8682351": {
+      "workers": {
+        "app/not-found": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLoginButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLogoutButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/post/[postId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FVote.jsx%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLoginButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLogoutButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FVote.jsx%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLoginButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLogoutButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/not-found": "rsc",
+        "app/post/[postId]/page": "rsc",
+        "app/page": "rsc"
+      }
+    },
+    "cf14dbe0fd4588f43c0dc8088828e3b6959e4b44": {
+      "workers": {
+        "app/not-found": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLoginButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLogoutButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/post/[postId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FVote.jsx%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLoginButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLogoutButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FVote.jsx%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLoginButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLogoutButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/not-found": "rsc",
+        "app/post/[postId]/page": "rsc",
+        "app/page": "rsc"
+      }
+    },
+    "5392d621470659f959ae7d5952bfe13227fbf1df": {
+      "workers": {
+        "app/post/[postId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FVote.jsx%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLoginButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLogoutButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FVote.jsx%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLoginButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLogoutButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/post/[postId]/page": "rsc",
+        "app/page": "rsc"
+      }
+    },
+    "a77e0e75527815665f3255a2c0f947d48c500af2": {
+      "workers": {
+        "app/post/[postId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FVote.jsx%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLoginButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLogoutButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FVote.jsx%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLoginButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Fcomponents%2FLogoutButton.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/post/[postId]/page": "rsc",
+        "app/page": "rsc"
+      }
+    },
+    "34e1e0bff02150df3537dfe45f5ab835aadf1ede": {
+      "workers": {
+        "app/post/[postId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Froot%2Ftecheducators%2Fprojectweek11%2Fdidit-reddit-upvote-example%2Fsrc%2Factions%2Fcomments.js%22%2C%5B%22saveComment%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/post/[postId]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "xisvHKp1o4aGOacsO4AmxJdpyejgfsK/0qiE/PLtNAw="
+}
